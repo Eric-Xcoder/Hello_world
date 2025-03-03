@@ -7,3 +7,5 @@ print(Toyota.brand_name)
 print(Toyota.mileage)
 print(Toyota.price)
 print(Toyota)
+
+
