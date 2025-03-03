@@ -12,3 +12,6 @@ class Car:
     
     def __str__(self):
         return "Car: " + self.brand_name + " has " + str(self.number_of_wheels) + " wheels, mileage is " + str(self.mileage) + " and price is " + str(self.price)
+
+    # TODO: Take in another car, compare the cars price, and return the car with the higher price
+    
