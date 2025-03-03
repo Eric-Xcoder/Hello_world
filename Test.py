@@ -8,4 +8,6 @@ print(Toyota.mileage)
 print(Toyota.price)
 print(Toyota)
 
+Lambo = Car(4, "Lambo", 10, 20000)
 
+print(Toyota.compare(Lambo))
